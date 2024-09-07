@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tasty/static/css/main.ea5cac39.css",
+    "main.js": "/Tasty/static/js/main.cf069c1c.js",
+    "static/js/453.3d3b2d7c.chunk.js": "/Tasty/static/js/453.3d3b2d7c.chunk.js",
+    "static/media/home.png": "/Tasty/static/media/home.1357e4c1a0df4c75b1c1.png",
+    "static/media/about.jpg": "/Tasty/static/media/about.79b2d73f357887a935ca.jpg",
+    "static/media/movil-app.png": "/Tasty/static/media/movil-app.7d08b4045c12b021ce1f.png",
+    "static/media/plate3.png": "/Tasty/static/media/plate3.e6ab6f133dd41ce8eee6.png",
+    "static/media/plate2.png": "/Tasty/static/media/plate2.a084b49142695d3d6210.png",
+    "static/media/plate1.png": "/Tasty/static/media/plate1.4b6a84540fa26fe321b3.png",
+    "static/media/pizza.svg": "/Tasty/static/media/pizza.4076799e7ffc0154e3a6c09a93b3e446.svg",
+    "static/media/dish.svg": "/Tasty/static/media/dish.505ba4fdb542c826a580e40d0f7d12b0.svg",
+    "static/media/truck.svg": "/Tasty/static/media/truck.e1fe772c6d6ed1b7a474e84a26999e06.svg",
+    "index.html": "/Tasty/index.html",
+    "main.ea5cac39.css.map": "/Tasty/static/css/main.ea5cac39.css.map",
+    "main.cf069c1c.js.map": "/Tasty/static/js/main.cf069c1c.js.map",
+    "453.3d3b2d7c.chunk.js.map": "/Tasty/static/js/453.3d3b2d7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5cac39.css",
+    "static/js/main.cf069c1c.js"
+  ]
+}
