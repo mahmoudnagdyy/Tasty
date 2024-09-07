@@ -1,0 +1,24 @@
+.plate_img {
+    width: 170px;
+}
+
+.plate {
+    box-shadow: -4px 2px 22px #babcbd;
+}
+
+.plate:hover img {
+    transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    -ms-transform: translateY(-10px);
+    -o-transform: translateY(-10px);
+}
+
+.shopping {
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+    position: absolute;
+    top: 88%;
+    right: 0;
+}
